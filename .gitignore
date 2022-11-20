@@ -1,0 +1,10 @@
+Debug/
+Debug/*
+build/
+build/*
+.metadata
+.metadata/
+.metadata/*
+.vscode
+.vscode/
+.vscode/*
