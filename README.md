@@ -1,1 +1,2 @@
-# datastructures
+# Datastructures
+- Binary Search Tree
